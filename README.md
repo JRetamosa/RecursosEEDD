@@ -1,2 +1,0 @@
-# RecursosEEDD
-recursos
